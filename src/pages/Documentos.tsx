@@ -86,7 +86,7 @@ const descargar = (doc: (typeof documentos) [number]) => {
                         </button>
                         <button
                           onClick={() => setEditandoId(null)}
-                          className="bg-zinc-600-600 hover:bg-zinc-700 text-sm px-2 py-1 rounded"
+                          className="bg-zinc-600 hover:bg-zinc-700 text-sm px-2 py-1 rounded"
                         >
                           Cancelar
                         </button>
